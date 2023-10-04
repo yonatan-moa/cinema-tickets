@@ -1,7 +1,6 @@
 import thirdparty.paymentgateway.TicketPaymentServiceImpl;
 import thirdparty.seatbooking.SeatReservationServiceImpl;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 import static java.lang.System.exit;
